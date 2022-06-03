@@ -1,0 +1,100 @@
+{
+    "__class__": "Lista",
+    "datos": [
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Philco",
+                "modelo": "END",
+                "color": "Negro",
+                "pfab": "Argentina",
+                "preciob": 50000.0,
+                "pantalla": "LED",
+                "pulgadas": 27,
+                "definicion": "FULLHD",
+                "internet": false
+            }
+        },
+        {
+            "__class__": "Lavarropa",
+            "__atributos__": {
+                "marca": "Drean",
+                "modelo": "Grande",
+                "color": "Blanco",
+                "pfab": "Argentina",
+                "preciob": 72000.0,
+                "capacidad": 8,
+                "velcentri": 1200,
+                "cantpro": 5,
+                "tipocarga": "Superior"
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Grande",
+                "color": "Gris",
+                "pfab": "Argentina",
+                "preciob": 150000.0,
+                "capacidad": 450,
+                "freezer": true,
+                "ciclica": true
+            }
+        },
+        {
+            "__class__": "Televisor",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "A27",
+                "color": "Negro",
+                "pfab": "Argentina",
+                "preciob": 130000.0,
+                "pantalla": "TouchScreen",
+                "pulgadas": 40,
+                "definicion": "FULLHD",
+                "internet": true
+            }
+        },
+        {
+            "__class__": "Lavarropa",
+            "__atributos__": {
+                "marca": "Samsung",
+                "modelo": "Chico",
+                "color": "Blanco",
+                "pfab": "Argentina",
+                "preciob": 70000.0,
+                "capacidad": 5,
+                "velcentri": 600,
+                "cantpro": 3,
+                "tipocarga": "Frontal"
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "Mediana",
+                "color": "Blanco",
+                "pfab": "Argentina",
+                "preciob": 100000.0,
+                "capacidad": 360,
+                "freezer": false,
+                "ciclica": false
+            }
+        },
+        {
+            "__class__": "Heladera",
+            "__atributos__": {
+                "marca": "Philips",
+                "modelo": "Chica",
+                "color": "Celeste",
+                "pfab": "Argentina",
+                "preciob": 50000.0,
+                "capacidad": 450,
+                "freezer": true,
+                "ciclica": true
+            }
+        }
+    ]
+}
