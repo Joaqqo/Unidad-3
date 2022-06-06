@@ -1,0 +1,100 @@
+{
+    "__class__": "Lista",
+    "datos": [
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": 77744,
+                "apellido": "Gomez",
+                "nombre": "Roberto",
+                "sueldoB": 3500,
+                "antiguedad": 6,
+                "areainv": "",
+                "tipoinv": "",
+                "carrera": "LCC",
+                "cargo": "simple",
+                "catedra": "Matematicas"
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cuil": 99988,
+                "apellido": "Fort",
+                "nombre": "Ricardo",
+                "sueldoB": 60000,
+                "antiguedad": 5,
+                "categoria": 1
+            }
+        },
+        {
+            "__class__": "Investigador",
+            "__atributos__": {
+                "cuil": 33344,
+                "apellido": "Martin",
+                "nombre": "Facundo",
+                "sueldoB": 6000,
+                "antiguedad": 15,
+                "areainv": "Matematicas",
+                "tipoinv": "Descriptiva",
+                "carrera": "",
+                "cargo": "",
+                "catedra": ""
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cuil": 44444,
+                "apellido": "Messi",
+                "nombre": "Angel",
+                "sueldoB": 5000,
+                "antiguedad": 10,
+                "categoria": 5
+            }
+        },
+        {
+            "__class__": "Docente",
+            "__atributos__": {
+                "cuil": 99999,
+                "apellido": "Bond",
+                "nombre": "James",
+                "sueldoB": 3000,
+                "antiguedad": 2,
+                "areainv": "",
+                "tipoinv": "",
+                "carrera": "LCC",
+                "cargo": "exclusivo",
+                "catedra": "Biologia"
+            }
+        },
+        {
+            "__class__": "Apoyo",
+            "__atributos__": {
+                "cuil": 55545,
+                "apellido": "Diaz",
+                "nombre": "Bruno",
+                "sueldoB": 10000.0,
+                "antiguedad": 10,
+                "categoria": 1
+            }
+        },
+        {
+            "__class__": "DocenteInvestigador",
+            "__atributos__": {
+                "cuil": 11111,
+                "apellido": "Sanchez",
+                "nombre": "Roberto",
+                "sueldoB": 2000,
+                "antiguedad": 3,
+                "carrera": "LCC",
+                "cargo": "semiexclusivo",
+                "catedra": "Matematicas",
+                "areainv": "Polinomios",
+                "tipoinv": "Experimental",
+                "categoria": 2,
+                "importeextra": 5000.0
+            }
+        }
+    ]
+}
